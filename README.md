@@ -1,2 +1,2 @@
 # Tips
-Tips for developers
+Tips for developers.
